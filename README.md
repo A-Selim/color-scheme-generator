@@ -2,7 +2,7 @@
 
 ## About
 
-Generates a scheme of 5 colors based on your chosen color and scheme mode.
+Generates a scheme of 5 colors based on your chosen color and scheme mode.  
 Hex code for the colors generated are copied to clipboard when clicked.  
 Comes with dark mode changes automatically based on your system preference.
 
